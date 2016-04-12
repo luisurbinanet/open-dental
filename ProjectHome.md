@@ -1,0 +1,1 @@
+A project focussing on the porting of the Open Dental software created by Dr Jordan Sparks and generously released under the GPL. This project is not a fork rather an area to carry out any work and write doccumentation in an effort to port Open Dental to Linux so it can be used in a totally open source environment.
